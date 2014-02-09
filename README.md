@@ -15,3 +15,17 @@ on [my blog](http://cameronneylon.net).
 can be found on Google Maps Engine and 
 [a visualisation of the IPython notebook](http://nbviewer.ipython.org/github/cameronneylon/access2research/blob/master/access2research.ipynb)
 is available via the IPython Notebook Viewer.
+
+<p xmlns:dct="http://purl.org/dc/terms/">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="github.com/cameronneylon/access2research/blob/master/access2research.ipynb">
+    <span property="dct:title">Cameron Neylon</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">Access to Research Map - IPython Notebook</span>.
+</p>
